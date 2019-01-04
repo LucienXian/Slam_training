@@ -17,16 +17,16 @@
 * piano
 
 <p float="left">
-  <img src="https://github.com/LucienXian/Slam_training/blob/master/MiddEval3/trainingQ/Piano/im0.png" width="100" />
-  <img src="https://github.com/LucienXian/Slam_training/blob/master/MiddEval3/trainingQ/Piano/im1.png" width="100" /> 
-  <img src="https://github.com/LucienXian/Slam_training/blob/master/res_ssd/Piano.png" width="100" />
+  <img src="https://github.com/LucienXian/Slam_training/blob/master/MiddEval3/trainingQ/Piano/im0.png" width="250" />
+  <img src="https://github.com/LucienXian/Slam_training/blob/master/MiddEval3/trainingQ/Piano/im1.png" width="250" /> 
+  <img src="https://github.com/LucienXian/Slam_training/blob/master/res_ssd/Piano.png" width="250" />
 </p>
 
 * playtable
 
 <p float="left">
-  <img src="https://github.com/LucienXian/Slam_training/blob/master/MiddEval3/trainingQ/PlaytableP/im0.png" width="100" />
-  <img src="https://github.com/LucienXian/Slam_training/blob/master/MiddEval3/trainingQ/PlaytableP/im1.png" width="100" /> 
-  <img src="https://github.com/LucienXian/Slam_training/blob/master/res_ssd/PlaytableP.png" width="100" />
+  <img src="https://github.com/LucienXian/Slam_training/blob/master/MiddEval3/trainingQ/PlaytableP/im0.png" width="250" />
+  <img src="https://github.com/LucienXian/Slam_training/blob/master/MiddEval3/trainingQ/PlaytableP/im1.png" width="250" /> 
+  <img src="https://github.com/LucienXian/Slam_training/blob/master/res_ssd/PlaytableP.png" width="250" />
 </p>
 
